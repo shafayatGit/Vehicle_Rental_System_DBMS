@@ -21,7 +21,7 @@ The system manages **Users**, **Vehicles**, and **Bookings** efficiently.
 - Each booking is linked to **exactly one user and one vehicle**
 
 🔗 **ERD Diagram**  
-[View ERD on DrawSQL](https://drawsql.app/teams/marziul/diagrams/vehicle-rental-system)
+[View ERD on DrawSQL](https://drawsql.app/teams/shafayats-company/diagrams/vehicle-rental-system)
 
 ---
 
